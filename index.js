@@ -23,3 +23,4 @@ function fizzbuzz() {
 
 fizzbuzz();
 
+//AI is bananas 
